@@ -1,4 +1,4 @@
-name: "Snyk Maven (3-jdk-17)"
+name: "Snyk Mavn (3-jdk-17)"
 description: "Check your Maven application for vulnerabilties using Snyk"
 author: "Gareth Rushgrove"
 branding:
